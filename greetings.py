@@ -13,6 +13,7 @@ def banner():
 if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
-    print("Hello from tommydavies-byte")  #this is a greeting from me
+    # My greeting is printed in the line below, replacing the previous greeting from tommydavies-byte
+    print("Hello from Alejernon!")  #this is a greeting from me
                                           #this is a test comment
 
